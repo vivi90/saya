@@ -102,4 +102,4 @@ ${voffset -10}${font Open Sans:bold:size=8.5}ROOT $font$alignr ${fs_type /root}
 ${fs_used /root} / ${fs_size /root} $alignr ${fs_used_perc /root} % 
 ${fs_bar /root}
 
-${execpi 3 ~/.conky/MX-KoO/mounts.sh}
+${execpi 3 ~/.conky/Saya/mounts.sh}
