@@ -18,5 +18,5 @@ For more details please see the LICENSE file or: http://www.gnu.org/licenses
 
 Credits
 -------
-Git repository: https://github.com/vivi90/saya.git
-Based on: https://github.com/MX-Linux/mx-conky-data/tree/master/MX-KoO
+ * Git repository: https://github.com/vivi90/saya.git
+ * Based on: https://github.com/MX-Linux/mx-conky-data/tree/master/MX-KoO
